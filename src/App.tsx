@@ -120,13 +120,13 @@ function App() {
                 Frontend • API • Data
               </span>
             </div>
-            <h1>Grace Kamau — Software Engineer</h1>
+            <h1>Hi, I’m Grace Kamau — Software Engineer</h1>
             <p className="hero__lead">
-              Grace builds full-stack applications with React, Next.js, Python,
+              I build full-stack applications with React, Next.js, Python,
               FastAPI, Django, SQLAlchemy, and Alembic.
             </p>
             <p className="hero__support">
-              She builds clean interfaces, reliable APIs, and maintainable
+              I focus on clean interfaces, reliable APIs, and maintainable
               database-backed systems with a thoughtful, engineering-first
               approach to product work.
             </p>
@@ -217,20 +217,20 @@ function App() {
         <Section
           id="about"
           eyebrow="About"
-          title="A full-stack builder with practical engineering discipline"
-          intro="Grace Kamau brings hands-on training from Moringa School and applies it with a clear focus on maintainable frontend systems, backend APIs, and structured data layers."
+          title="I build with practical engineering discipline"
+          intro="I bring hands-on training from Moringa School and apply it with a clear focus on maintainable frontend systems, backend APIs, and structured data layers."
         >
           <div className="about-grid">
             <article className="card prose-card">
               <p>
-                Her work reflects more than coursework completion. It shows an
-                ability to read requirements, break problems into parts, and
-                translate them into working software that stays understandable
-                as features expand.
+                My work reflects more than coursework completion. I enjoy
+                reading requirements, breaking problems into parts, and turning
+                them into working software that stays understandable as features
+                expand.
               </p>
               <p>
                 Across React interfaces, Python services, and relational
-                modeling, Grace aims for clarity in the user experience and
+                modeling, I aim for clarity in the user experience and
                 reliability in the implementation behind it.
               </p>
             </article>
@@ -258,8 +258,8 @@ function App() {
         <Section
           id="stack"
           eyebrow="Technical Stack"
-          title="An easy-to-scan view of Grace’s working toolkit"
-          intro="Grouped to quickly show her breadth across the frontend, backend, and database layers."
+          title="An easy-to-scan view of my working toolkit"
+          intro="Grouped to quickly show how I work across the frontend, backend, and database layers."
         >
           <div className="stack-grid">
             {stackGroups.map((group, index) => (
@@ -284,8 +284,8 @@ function App() {
         <Section
           id="approach"
           eyebrow="Engineering Approach"
-          title="How Grace thinks about building software, not just writing syntax"
-          intro="This is where her engineering mindset shows up most clearly: structure, integration, and maintainability."
+          title="How I think about building software, not just writing syntax"
+          intro="This is where my engineering mindset shows up most clearly: structure, integration, and maintainability."
         >
           <div className="approach-grid">
             {approachCards.map((card, index) => (
@@ -368,19 +368,19 @@ function App() {
           id="backend"
           eyebrow="Backend / API Expertise"
           title="Backend work centered on dependable contracts and clean application flow"
-          intro="Grace understands that a strong API is not only about endpoints — it is about predictability, validation, and how well the frontend can consume the data."
+          intro="I see a strong API as more than endpoints — it is about predictability, validation, and how well the frontend can consume the data."
         >
           <div className="split-grid">
             <article className="card prose-card">
               <p>
-                Her backend foundation includes REST principles, CRUD workflows,
+                My backend foundation includes REST principles, CRUD workflows,
                 route and controller design, JSON serialization, and practical
-                error handling. She is comfortable thinking about how interfaces
-                consume data, how routes should behave, and how a backend stays
+                error handling. I think carefully about how interfaces consume
+                data, how routes should behave, and how a backend stays
                 maintainable as product requirements evolve.
               </p>
               <p>
-                Alongside Flask-based project work, Grace also brings strong
+                Alongside Flask-based project work, I also bring strong
                 foundations in FastAPI and Django concepts for modern Python web
                 development.
               </p>
@@ -399,19 +399,19 @@ function App() {
         <Section
           id="database"
           eyebrow="Database / ORM / Migration Knowledge"
-          title="Comfortable with the data layer that supports real application behavior"
-          intro="Grace’s database work shows understanding of relationships, schema evolution, and how structured data affects every layer of an application."
+          title="I’m comfortable with the data layer behind real application behavior"
+          intro="My database work reflects an understanding of relationships, schema evolution, and how structured data affects every layer of an application."
         >
           <div className="split-grid">
             <article className="card prose-card">
               <p>
-                She has worked with relational models, foreign keys, one-to-many
+                I have worked with relational models, foreign keys, one-to-many
                 and many-to-many relationships, SQLAlchemy ORM patterns, and
                 Alembic migrations for controlled schema changes.
               </p>
               <p>
-                That foundation helps her think beyond isolated queries and
-                focus on data integrity, serialization tradeoffs, and long-term
+                That foundation helps me think beyond isolated queries and focus
+                on data integrity, serialization tradeoffs, and long-term
                 maintainability.
               </p>
             </article>
@@ -430,12 +430,12 @@ function App() {
           id="journey"
           eyebrow="GitHub / Learning Journey"
           title="A record of practical engineering growth, iteration, and shipped work"
-          intro="Grace uses GitHub as a working log of how she builds: reading requirements, coding against them, testing ideas, and refining the result."
+          intro="I use GitHub as a working log of how I build: reading requirements, coding against them, testing ideas, and refining the result."
         >
           <div className="journey-grid">
             <article className="card prose-card">
               <p>
-                Her Moringa portfolio work is best understood as practical
+                My Moringa portfolio work is best understood as practical
                 engineering training — not filler. The projects show end-to-end
                 implementation, structured problem solving, and repeated
                 practice translating requirements into functioning code.
@@ -465,14 +465,14 @@ function App() {
           id="contact"
           eyebrow="Contact / CTA"
           title="Open to software engineering opportunities and technical conversations"
-          intro="If you are hiring for a thoughtful early-career engineer with full-stack foundations and strong growth momentum, Grace would be glad to connect."
+          intro="If you are hiring for a thoughtful early-career engineer with full-stack foundations and strong growth momentum, I’d be glad to connect."
           className="section--cta"
         >
           <div className="contact-panel card">
             <div>
               <h3>Grace Kamau</h3>
               <p>
-                Available for roles where she can keep building reliable,
+                I’m available for roles where I can keep building reliable,
                 maintainable products across the stack.
               </p>
             </div>

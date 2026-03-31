@@ -9,30 +9,30 @@ export const navItems = [
 ];
 
 export const heroHighlights = [
-  "React and Next.js interfaces that stay clean and intuitive as features grow.",
-  "Python backend development with Flask, FastAPI, Django, and practical REST design.",
-  "Relational data modeling with SQLAlchemy ORM, Alembic migrations, and maintainable schemas.",
+  "I build React and Next.js interfaces that stay clean and intuitive as features grow.",
+  "I work across Python backends with Flask, FastAPI, Django, and practical REST design.",
+  "I think carefully about relational data modeling, SQLAlchemy ORM, Alembic migrations, and maintainable schemas.",
 ];
 
 export const stackGroups = [
   {
     title: "Frontend",
-    note: "Responsive interfaces with reusable components and thoughtful UI structure.",
+    note: "I build responsive interfaces with reusable components and thoughtful UI structure.",
     items: ["React", "Next.js", "JavaScript", "TypeScript"],
   },
   {
     title: "Backend",
-    note: "API-first thinking with clear routes, validation, and predictable JSON responses.",
+    note: "I approach backend work with clear routes, validation, and predictable JSON responses.",
     items: ["Python", "Flask", "FastAPI", "Django", "REST APIs"],
   },
   {
     title: "Database",
-    note: "Relational modeling that supports real product behavior and future change.",
+    note: "I model relational data to support real product behavior and future change.",
     items: ["SQL", "SQLAlchemy ORM", "Alembic", "Relational Modeling"],
   },
   {
     title: "Tools",
-    note: "Day-to-day engineering workflow for version control, testing, and collaboration.",
+    note: "My day-to-day workflow includes version control, testing, and collaboration tools.",
     items: ["Git", "GitHub", "Postman", "VS Code"],
   },
 ];
@@ -40,7 +40,7 @@ export const stackGroups = [
 export const approachCards = [
   {
     title: "Frontend Thinking",
-    body: "Grace approaches interfaces as systems: reusable components, clear hierarchy, accessible states, and layouts that remain readable across devices.",
+    body: "I approach interfaces as systems: reusable components, clear hierarchy, accessible states, and layouts that remain readable across devices.",
     points: [
       "Reusable UI patterns",
       "Responsive structure",
@@ -49,17 +49,17 @@ export const approachCards = [
   },
   {
     title: "Backend Thinking",
-    body: "She designs routes and controllers around API contracts, validation, and dependable JSON responses so the frontend can integrate with confidence.",
+    body: "I design routes and controllers around API contracts, validation, and dependable JSON responses so the frontend can integrate with confidence.",
     points: ["RESTful routes", "Validation logic", "Error handling"],
   },
   {
     title: "Database Thinking",
-    body: "Her database work focuses on relationships, foreign keys, migration flow, and schemas that reflect real business rules instead of short-term hacks.",
+    body: "My database work focuses on relationships, foreign keys, migration flow, and schemas that reflect real business rules instead of short-term hacks.",
     points: ["One-to-many design", "Many-to-many modeling", "Migration safety"],
   },
   {
     title: "Integration Thinking",
-    body: "Grace pays attention to the full connection layer: CORS, serialization, frontend fetch patterns, and keeping data flow maintainable across the stack.",
+    body: "I pay attention to the full connection layer: CORS, serialization, frontend fetch patterns, and keeping data flow maintainable across the stack.",
     points: [
       "CORS awareness",
       "Frontend/backend communication",

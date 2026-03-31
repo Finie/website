@@ -1,4 +1,4 @@
-# Grace Kamau Portfolio
+# Portfolio
 
 A polished static portfolio website for **Grace Kamau**, built with **React + Vite + TypeScript**.
 
